@@ -32,7 +32,7 @@
 	belt = /obj/item/storage/belt/medical/emt
 	id = /obj/item/card/id
 	l_pocket = /obj/item/pda/medical
-	r_pocket = /obj/item/pinpointer/crew
+	r_pocket = /obj/item/pinpointer/crew/prox
 
 	backpack = /obj/item/storage/backpack/medic
 	satchel = /obj/item/storage/backpack/satchel/med
